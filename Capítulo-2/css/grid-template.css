@@ -1,0 +1,15 @@
+.box {
+	background: #ccc;
+	border: 1px solid;
+	border-color:  #999;
+	color: #000;
+	justify-content: center;
+	text-align: center;
+}
+
+.container {
+	display: grid;
+	/*Forma abreviada para a grid*/
+	grid-template:  80px 100px 100px / 100px 50px 80px 200px;
+}
+
