@@ -15,3 +15,34 @@ diretamente com o CSS grid layout.
 De fato, é uma ferramenta fantástica para a criação de layout CSS, sem 
 sobrecarregar as marcações HTML, com regras desnecessárias que os ***frameworks***
 acima citados.
+
+## Estrutura do CSS grid layout
+
+- grid
+- grid lines
+- grid tracks
+- grid cell
+- grid gap
+- grid area
+- grid container
+- grid items
+
+## Propriedades para o grid container
+- display
+- grid-template columns
+- grid-template-rows
+- grid-template-area
+- grid-template
+- grid-columns-gap
+- grid-row-gap
+- grid-gap
+
+## Propriedades para grid-items
+- grid-colmns-start
+- grid-columns-end
+- grid-row-start
+- grid-row-end
+- grid-column
+- grid-row
+- grid-area
+- grid-template-area
