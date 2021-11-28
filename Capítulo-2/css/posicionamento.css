@@ -1,0 +1,29 @@
+.container {
+	display: grid;
+	grid-template-columns: 100px 50px 80px 200px;
+	grid-template-rows: 80px 100px;
+	grid-gap: 20px 10px;
+}
+
+.box1 {
+	grid-column-start: 1;
+	grid-column-end: 5;
+	grid-row-start: 3;
+	grid-row-end: 4;
+}
+
+.box2 {
+	grid-column-start: 3;
+	grid-column-end: 5;
+	grid-row-start: 1;
+	grid-row-end: 3;
+}
+/*.container {
+	
+
+.box2 {
+	grid-column-start: 3;
+	grid-column-end: 5;
+	grid-row-start: 1;
+	grid-row-end: 3;
+}*/
